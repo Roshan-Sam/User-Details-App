@@ -1,0 +1,15 @@
+.view-btn {
+  padding: 10px 10px;
+  border-radius: 50px;
+  border: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.1s;
+}
+.view-btn:hover {
+  background-color: darkred;
+}
+.view-btn:active {
+  transform: scale(0.95);
+}

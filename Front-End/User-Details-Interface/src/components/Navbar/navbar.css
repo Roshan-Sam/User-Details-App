@@ -1,0 +1,25 @@
+.nav {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  background-color: #f5f5f5;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  color: #333;
+  height: 60px;
+}
+
+.nav-elements {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  height: fit-content;
+  margin-top: 4px;
+}
+.nav-element-1 {
+  text-decoration: none;
+  color: #0066cc;
+  transition: color 0.3s;
+}
+.nav-element-1 {
+  color: #003366;
+}
